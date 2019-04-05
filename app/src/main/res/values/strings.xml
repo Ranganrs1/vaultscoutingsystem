@@ -1,0 +1,4 @@
+<resources>
+    <!-- String resources -->
+    <string name="app_name" translatable="false">Vault Scouting</string>
+</resources>
